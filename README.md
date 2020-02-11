@@ -1,7 +1,12 @@
 # ECMWF_MJO-QBO
 Holds data files from MJO-QBO connection experiments conducted at ECMWF in support of the paper 
-"The impact of the stratosphere on the MJO in a forecast model" submitted publication pending to 
+"The impact of the stratosphere on the MJO in a forecast model" accepted for publication to 
 the Journal of Geophysical Research - Atmospheres.
+
+This has been published on Zenodo at the following:
+
+https://zenodo.org/record/3662722#.XkLaWy3Mymk
+doi:10.5281/zenodo.3662722
 
 This repository contains processed output from the original experiments which were used in creating the figures and analysis
 which comprised the final publication. The folders are:
